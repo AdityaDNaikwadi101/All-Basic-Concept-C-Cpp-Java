@@ -12,7 +12,7 @@ int main()
     float *fp = &f;
     double *dp = &d;
 
-    void *vp = NULL;
+    void *vp = NULL;        
 
     printf("%c\n",*cp);
     printf("%d\n",*ip);    
